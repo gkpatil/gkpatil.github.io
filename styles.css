@@ -34,7 +34,7 @@ body {
 
     background-color: #000000;
 
-    font-family:'Gotham';
+    font-family:'Montserrat';
     font-weight: 300;
     font-size: 4rem;
     color: #ffffffee;
@@ -55,7 +55,7 @@ h2 {
     font-size: 6rem;
     line-height: 8rem;
     font-weight: 300;
-    font-family: 'Gotham';
+    font-family: 'Montserrat';
     font-style: italic;
 }
 
@@ -214,13 +214,13 @@ a {
     }
 
 .first_name {
-    font-weight: 800;
-    font-family:'Gotham Black';
+    font-weight: 900;
+    font-family:'Montserrat';
 }
 
 .last_name {
-    font-weight: 300;
-    font-family:'Gotham Thin';
+    font-weight: 100;
+    font-family:'Montserrat';
 }
 
 .nav_icon {
@@ -236,7 +236,7 @@ a {
     width: 80%;
     height: auto;
 
-    font-family: 'Gotham';
+    font-family: 'Montserrat';
     color: #000000;
 
     border-radius: 6rem;
